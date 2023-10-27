@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T04:42:24.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yT1ebFBBVyDITWz_2Tsb" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T04:48:28.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="XOWiBzA3Mdbl0rQjE-UC" version="22.0.8" type="github">
   <diagram name="Page-1" id="BLxl1xzLI8pXoHssbm8f">
     <mxGraphModel dx="2074" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="E2cYebkVHFcdTyyEUBHE-50" value="CC0 licensed by MenacingExiler&lt;br&gt;As of 25/10/2023" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="880" y="843" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E2cYebkVHFcdTyyEUBHE-51" value="*This step will require running Slime Server in either PC, mobile or headset itself. You can skip this if you have hardcoded Wi-Fi.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="E2cYebkVHFcdTyyEUBHE-51" value="*This step will require running Slime Server in either PC, mobile or headset itself. You can skip PC setup if you have hardcoded Wi-Fi.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="840" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E2cYebkVHFcdTyyEUBHE-52" value="Even if you don&#39;t have VR or do not meet requirements, you can still use for mocap or Vtubing.&lt;br&gt;We assume your ability to run PCVR means you meet requirement to run your VR game on it" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
