@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T10:31:41.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Pj_KeNmTkFV-bG0nd74x" version="22.1.0" type="device">
+<mxfile host="app.diagrams.net" modified="2023-11-09T10:37:59.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xI85qJZNB0WbeQ5ayGRa" version="22.1.0" type="device">
   <diagram name="Page-1" id="BLxl1xzLI8pXoHssbm8f">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
         <mxCell id="E2cYebkVHFcdTyyEUBHE-29" value="Quest 1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fmn0tTmoaa08dCbdX1xN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E2cYebkVHFcdTyyEUBHE-30" target="E2cYebkVHFcdTyyEUBHE-37">
+        <mxCell id="Fmn0tTmoaa08dCbdX1xN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E2cYebkVHFcdTyyEUBHE-30" target="E2cYebkVHFcdTyyEUBHE-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1020" y="770" />
@@ -171,7 +171,7 @@
         <mxCell id="E2cYebkVHFcdTyyEUBHE-50" value="CC0 licensed by MenacingExiler&lt;br&gt;Update 9th November 2023" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="880" y="840" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E2cYebkVHFcdTyyEUBHE-51" value="This setup requires Wi-Fi setup for first time. After that, you can SlimeVR with any device that can run SlimeVR software.&lt;br&gt;*This can be skipped if you hardcoded Wi-Fi. There are some experimental ways to setup Wi-Fi without PC more on Discord." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="E2cYebkVHFcdTyyEUBHE-51" value="*This setup requires Wi-Fi setup for first time. After that, you can SlimeVR with any device that can run SlimeVR software.&lt;br&gt;This can be skipped if you hardcoded Wi-Fi. There are some experimental ways to setup Wi-Fi without PC more on Discord." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="820" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E2cYebkVHFcdTyyEUBHE-52" value="Even if you don&#39;t have VR or do not meet requirements, you can still use for mocap or Vtubing.&lt;br&gt;We assume your ability to run PCVR means you meet requirement to run your VR game on it" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
