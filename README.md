@@ -1,8 +1,7 @@
 # CanIRunSlimeVR
 ### Can I run SlimeVR? A guide.
 
-![SlimeGuide drawio](https://github.com/MenacingExiler/CanIRunSlimeVR/assets/95016176/91724c3e-ce0b-4953-bd58-2f5349273378)
-
+![SlimeGuide drawio](https://github.com/MenacingExiler/CanIRunSlimeVR/assets/95016176/bb7395ab-1d76-4cef-8a3a-d3e416f13653)
 
 ### How many SlimeVR trackers do I need?
 
